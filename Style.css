@@ -1,0 +1,22 @@
+/* --------------------Liste de Mes Polices-----------------------
+font-family: 'Cinzel', serif;
+font-family: 'Gemunu Libre', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Rajdhani', sans-serif;
+font-family: 'Romanesco', cursive;
+font-family: 'Ubuntu', sans-serif;
+-------------------------------Fin----------------------------- */
+
+body {
+    background-color: rgb(106, 106, 106) !important;
+}
+
+.arriere-plan {
+    background-color: rgb(255, 255, 255) !important;
+    border-radius: 2vh!important;
+    font-family: 'Kanit', sans-serif;
+}
